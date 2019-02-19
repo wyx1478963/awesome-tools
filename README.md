@@ -26,3 +26,5 @@
 > 17吉他谱抓取保存+搜索功能
 
 > IntelliJ Idea gitIgnore插件，生成.gitignore文件模板修改
+
+> Maven dependencies 的版本号提出<xxx.version></xxx.version>（可以用tampermonkey从mvnRepository copy的时候处理，或者Intellij plugin）
