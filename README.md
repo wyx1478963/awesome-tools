@@ -24,3 +24,5 @@
 > 定制通用POM，项目模块化，比如awesome-common,awesome-core
 
 > 17吉他谱抓取保存+搜索功能
+
+> IntelliJ Idea gitIgnore插件，生成.gitignore文件模板修改
