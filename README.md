@@ -29,4 +29,4 @@
 
 > Maven dependencies 的版本号提出<xxx.version></xxx.version>（可以用tampermonkey从mvnRepository copy的时候处理，或者Intellij plugin）
 
-> 一个效率工具形态（stack/Queue），把要做的todoList压进去，然后方便逐一解决
+> 一个效率工具形态（stack/Queue），把要做的todoList压进去，然后方便逐一解决，类似滴答清单及高级功能
